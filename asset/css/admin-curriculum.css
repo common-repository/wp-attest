@@ -1,0 +1,49 @@
+/**
+ *
+ * Sections CSS File
+ *
+ */
+.attest-hide{display:none;}
+.lesson-wrap{padding-left: 10px;}
+.new_lesson_container{padding-left: 10px;}
+.red-button{color: #a00;}
+.pull-right{text-align: right; float: right;}
+.attest-lesseon-condition-label {font-weight: normal;}
+.accordion-title-name-section, .accordion-title-number-section {font-weight: bold;}
+.accordion-title-name-lesson, .accordion-title-number-lesson, .accordion-title-name-quizz, .accordion-title-number-quizz {font-weight: normal !important;}
+.accordion-title-number-section {padding-right: 20px;}
+.accordion-title-number-lesson, .accordion-title-number-quizz {padding-right: 30px;}
+#accordion_title_number_quizz {padding-left: 10px;}
+.components-panel__body-toggle.components-button .components-panel__arrow {right: 20px !important;}
+.components-panel_section_body-title span, .components-panel_lesson_body-title .lesson_settings, .components-panel_lesson_body-title .delete_lesson, .components-panel_quizz_body-title .lesson_settings, .components-panel_quizz_body-title .delete_lesson {font-size: 14px}
+.accordion_title_number, .accordion-title-name {font-size: 14px}
+.accordion-title-name {padding-left: 10px;}
+.attest_edit_title_container {margin-top: -5px;}
+.add-new-section {padding: 10px 0px 20px 0px;}
+.add-new-lesson {padding: 10px 0px 10px 20px;}
+.new_section, .new_lesson, .save_rule {height: 29px; margin-top: -5px;}
+.save_rule_style {min-width: 100px; text-align: center;}
+.lesson-table {width: 80%; padding: 0px 10px; margin: -10px 0px;}
+#attest_lesson_id, #attest_lesson_condition {width: 100%;}
+#attest_curriculum_title {padding-left: 10px; padding-right: 10px;}
+#section_container {-webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;
+border: 1px solid #cccccc; -webkit-box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.1); box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.1);
+background-color: #ffffff;}
+#section_container, .lesson-wrap {margin: 10px 0px 10px 0px;}
+#lesson_container {padding: 0px 0px 0px 0px; }
+.lesson_container {background-color: #f1f1f1;}
+.lesson_id_container {width: 180px !important;}
+.lesson_link_container {width: 30px !important; text-align: left; padding-left: 20px;}
+.lesson_delete_container {text-align: left; padding-left: 20px;}
+.drag-icon-section {font-size: 14px !important; display:inline-block; vertical-align: -2px;}
+.drag-icon-lesson, .drag-icon-quizz {font-size: 14px !important; display:inline-block; vertical-align: -3px;}
+.section_open, .section_close {font-size: 14px !important; display:inline-block; vertical-align: -5px;}
+.components-panel_section_body-title, .components-panel_lesson_body-title {max-height: 50px !important;}
+.edit-post-meta-boxes-area .postbox > .inside {margin: 0px!important;}
+#attest_lesson_id, #add_new_lesson, #add_new_quizz, #add_new_lesson_exist, #add_new_quizz_exist, #attest_curriculum_title {width: 360px!important;}
+#new_lesson_or_quizz_type_selector, #choose_quizz_or_lesson {width: 180px!important;}
+.new_lesson, .new_section, .save_title {margin-left: 10px; min-width: 100px!important; text-align: center!important;}
+.new_lesson {padding: 0px 25px;}
+.new_section {padding: 0px 15px;}
+.delete_section, .delete_lesson, .delete_section:hover, .delete_lesson:hover {color: #cc1818;}

@@ -1,0 +1,1490 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP Attest\n"
+"POT-Creation-Date: 2020-09-23 21:08+0530\n"
+"PO-Revision-Date: 2020-05-09 12:39+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-attest.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: autoload.php:23 src/class-attest-settings.php:80
+#: src/class-attest-settings.php:81 src/metabox/class-settings-metabox.php:44
+msgid "Settings"
+msgstr ""
+
+#: autoload.php:92
+msgid "Database table Not installed correctly."
+msgstr ""
+
+#: autoload.php:141
+#, php-format
+msgid "Hey %1$s"
+msgstr ""
+
+#: autoload.php:142
+#, php-format
+msgid ""
+"Never miss an important update! Opt-in to our security and feature updates "
+"notifications, and non-sensitive diagnostic tracking with %2$s."
+msgstr ""
+
+#: lib/ajax/class-create-lesson-ajax.php:31
+#: lib/ajax/class-save-lesson-ajax.php:31
+msgid "Are you a hacker?"
+msgstr ""
+
+#: lib/ajax/class-create-lesson-ajax.php:57
+msgid "Lesson creation failed. Try again!"
+msgstr ""
+
+#: lib/announcement/class-announcement-form.php:66
+msgid "Title, description and course field is mandetory. Please try again."
+msgstr ""
+
+#: lib/announcement/class-announcement-form.php:75
+msgid "Could not add announcement. Please try again."
+msgstr ""
+
+#: lib/announcement/class-announcement-form.php:84
+msgid ""
+"Successfully added announcement. Change it's activation status in the "
+"table bellow."
+msgstr ""
+
+#: lib/announcement/class-announcement-form.php:92
+#: src/class-attest-settings.php:704 src/cpt/class-course-cpt.php:33
+#: src/cpt/class-lesson-cpt.php:32
+#: src/taxonomy/class-difficulty-taxonomy.php:33
+msgid "Add New"
+msgstr ""
+
+#: lib/announcement/class-announcement-form.php:102
+msgid "New Announcement"
+msgstr ""
+
+#: lib/announcement/class-announcement-form.php:103
+msgid ""
+"You can create a new announcement that will be published on the course "
+"page and notify all the students of that course by email (optional). You "
+"cannot edit the announcement. You can hide the announcement from the "
+"course page or delete it completely"
+msgstr ""
+
+#: lib/announcement/class-announcement-form.php:108
+#: lib/announcement/class-announcement-table.php:197
+#: src/class-attest-settings.php:954
+msgid "Title"
+msgstr ""
+
+#: lib/announcement/class-announcement-form.php:112
+#: lib/announcement/class-announcement-table.php:198
+#: lib/templates/single-course.php:206 lib/templates/single-lesson.php:85
+msgid "Description"
+msgstr ""
+
+#: lib/announcement/class-announcement-form.php:118
+msgid "Select Course"
+msgstr ""
+
+#: lib/announcement/class-announcement-form.php:121
+#: src/class-attest-settings.php:323 src/class-attest-settings.php:339
+#: src/class-attest-settings.php:355 src/class-attest-settings.php:371
+#: src/class-attest-settings.php:387
+msgid "Select"
+msgstr ""
+
+#: lib/announcement/class-announcement-form.php:129
+#, php-format
+msgid "Notify the %s students by email"
+msgstr ""
+
+#: lib/announcement/class-announcement-form.php:132
+msgid "Release announcement"
+msgstr ""
+
+#: lib/announcement/class-announcement-table.php:17
+#: src/class-attest-settings.php:786
+#: src/metabox/class-settings-metabox.php:95
+#: src/metabox/class-settings-metabox.php:129
+msgid "Announcement"
+msgstr ""
+
+#: lib/announcement/class-announcement-table.php:18
+#: src/class-attest-settings.php:50 src/class-attest-settings.php:51
+msgid "Announcements"
+msgstr ""
+
+#: lib/announcement/class-announcement-table.php:80
+msgid "No Items Added yet."
+msgstr ""
+
+#: lib/announcement/class-announcement-table.php:106
+msgid "Hide on course page"
+msgstr ""
+
+#: lib/announcement/class-announcement-table.php:110
+msgid "Show on course page"
+msgstr ""
+
+#: lib/announcement/class-announcement-table.php:117
+#: lib/announcement/class-announcement-table.php:222
+#: lib/user/class-attest-student-table.php:104
+#: lib/user/class-attest-student-table.php:187
+#: lib/user/class-attest-tutor-table.php:115
+#: src/metabox/class-curriculum-metabox.php:157
+msgid "Delete"
+msgstr ""
+
+#: lib/announcement/class-announcement-table.php:152
+msgid "Yes"
+msgstr ""
+
+#: lib/announcement/class-announcement-table.php:156
+#: lib/templates/class-course-temp-functions.php:76
+msgid "No"
+msgstr ""
+
+#: lib/announcement/class-announcement-table.php:199
+msgid "Course"
+msgstr ""
+
+#: lib/announcement/class-announcement-table.php:200
+msgid "Active"
+msgstr ""
+
+#: lib/announcement/class-announcement-table.php:201
+msgid "Created at"
+msgstr ""
+
+#: lib/announcement/class-announcement-table.php:223
+msgid "Show/Hide"
+msgstr ""
+
+#: lib/auth/class-register-user.php:57
+msgid "You are spammer ! Get out"
+msgstr ""
+
+#: lib/auth/class-register-user.php:62
+msgid "Invalid submission"
+msgstr ""
+
+#: lib/auth/class-register-user.php:107
+msgid "All fields are mandatory"
+msgstr ""
+
+#: lib/class-attest-cron.php:32
+msgid "days"
+msgstr ""
+
+#: lib/class-attest-cron.php:44
+msgid "Every "
+msgstr ""
+
+#: lib/class-attest-script.php:25
+msgid "Insert a video"
+msgstr ""
+
+#: lib/class-attest-script.php:26
+msgid "Insert"
+msgstr ""
+
+#: lib/class-attest-script.php:30
+msgid "Something Went wrong"
+msgstr ""
+
+#: lib/class-attest-script.php:31 src/metabox/class-curriculum-metabox.php:64
+#: src/metabox/class-curriculum-metabox.php:211
+#: src/metabox/class-settings-metabox.php:345
+msgid "Lesson"
+msgstr ""
+
+#: lib/class-attest-script.php:32
+msgid "Saving"
+msgstr ""
+
+#: lib/class-attest-script.php:33 src/class-attest-settings.php:769
+#: src/class-attest-settings.php:778 src/class-attest-settings.php:832
+#: src/metabox/class-curriculum-metabox.php:121
+msgid "Save"
+msgstr ""
+
+#: lib/class-attest-script.php:34
+msgid "Do you really want to delete the lesson?"
+msgstr ""
+
+#: lib/class-attest-script.php:35
+msgid "Do you really want to delete the section?"
+msgstr ""
+
+#: lib/class-attest-script.php:38
+msgid "Do you really want to delete the question?"
+msgstr ""
+
+#: lib/data/class-attest-import.php:296
+msgid "Import successfull."
+msgstr ""
+
+#: lib/data/class-attest-import.php:305
+msgid "File type is invalid."
+msgstr ""
+
+#: lib/settings/class-update-temp.php:64
+msgid "Settings saved."
+msgstr ""
+
+#: lib/templates/archive-course.php:39
+#: src/shortcode/class-courses-shortcode.php:122
+msgid "FEATURED"
+msgstr ""
+
+#: lib/templates/archive-course.php:50 lib/templates/single-course.php:72
+#: src/shortcode/class-courses-shortcode.php:136
+msgid "Created by"
+msgstr ""
+
+#: lib/templates/archive-course.php:53
+#: lib/templates/class-course-archive-functions.php:24
+#: lib/templates/class-course-temp-functions.php:454
+#: src/shortcode/class-courses-shortcode.php:163
+msgid "FREE"
+msgstr ""
+
+#: lib/templates/archive-course.php:54
+#: lib/templates/class-course-archive-functions.php:61
+#: lib/templates/class-course-temp-functions.php:469
+#: src/shortcode/class-courses-shortcode.php:179
+msgid "Requires registration"
+msgstr ""
+
+#: lib/templates/archive-sidebar.php:15
+msgid "Attest course archive sidebar"
+msgstr ""
+
+#: lib/templates/archive-sidebar.php:17
+msgid "Widgets in this area will be shown on courses archive by Attest."
+msgstr ""
+
+#: lib/templates/class-course-archive-functions.php:42
+msgid "Enrolled"
+msgstr ""
+
+#: lib/templates/class-course-archive-functions.php:53
+msgid "Completed"
+msgstr ""
+
+#: lib/templates/class-course-archive-functions.php:64
+#: lib/templates/class-course-temp-functions.php:472
+msgid "off"
+msgstr ""
+
+#: lib/templates/class-course-temp-functions.php:611
+#: src/class-attest-settings.php:1040
+msgid "Facebook"
+msgstr ""
+
+#: lib/templates/class-course-temp-functions.php:612
+#: src/class-attest-settings.php:1041
+msgid "Instagram"
+msgstr ""
+
+#: lib/templates/class-course-temp-functions.php:613
+#: src/class-attest-settings.php:1042
+msgid "Linkedin"
+msgstr ""
+
+#: lib/templates/class-course-temp-functions.php:614
+#: src/class-attest-settings.php:1043
+msgid "Twitter"
+msgstr ""
+
+#: lib/templates/single-course.php:73
+msgid "in"
+msgstr ""
+
+#: lib/templates/single-course.php:104
+msgid "What you will learn"
+msgstr ""
+
+#: lib/templates/single-course.php:129
+#: src/metabox/class-details-metabox.php:45
+#: src/metabox/class-details-metabox.php:56
+msgid "Requirements"
+msgstr ""
+
+#: lib/templates/single-course.php:140
+msgid "This course is good for"
+msgstr ""
+
+#: lib/templates/single-course.php:151
+#: src/metabox/class-curriculum-metabox.php:24
+msgid "Curriculum"
+msgstr ""
+
+#: lib/templates/single-course.php:213
+#: src/metabox/class-details-metabox.php:66
+msgid "Frequent Asked Questions"
+msgstr ""
+
+#: lib/templates/single-course.php:240
+msgid "Tags"
+msgstr ""
+
+#: lib/templates/single-course.php:245
+msgid "About Author"
+msgstr ""
+
+#: lib/templates/single-course.php:276 lib/templates/single-course.php:285
+#: lib/templates/single-course.php:288
+msgid "Enroll"
+msgstr ""
+
+#: lib/templates/single-course.php:279
+msgid "Go to Lesson"
+msgstr ""
+
+#: lib/templates/single-course.php:293
+#, php-format
+msgid "%s Student enrolled"
+msgid_plural "%s Students enrolled"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/templates/single-course.php:296
+#: src/taxonomy/class-difficulty-taxonomy.php:38
+msgid "Difficulty"
+msgstr ""
+
+#: lib/templates/single-course.php:302
+#: src/metabox/class-settings-metabox.php:91
+#: src/metabox/class-settings-metabox.php:109
+msgid "Language"
+msgstr ""
+
+#: lib/templates/single-course.php:308 lib/templates/single-lesson.php:80
+#: src/metabox/class-settings-metabox.php:67
+#: src/metabox/class-settings-metabox.php:72
+#: src/metabox/class-settings-metabox.php:92
+#: src/metabox/class-settings-metabox.php:114
+msgid "Duration"
+msgstr ""
+
+#: lib/templates/single-course.php:314 src/cpt/class-lesson-cpt.php:29
+#: src/cpt/class-lesson-cpt.php:47 src/metabox/class-settings-metabox.php:720
+msgid "Lessons"
+msgstr ""
+
+#: lib/templates/single-lesson.php:56
+msgid "Part of"
+msgstr ""
+
+#: lib/templates/single-lesson.php:63
+msgid "PREVIOUS"
+msgstr ""
+
+#: lib/templates/single-lesson.php:64
+msgid "NEXT"
+msgstr ""
+
+#: lib/templates/single-lesson.php:64
+msgid "COMPLETE"
+msgstr ""
+
+#: lib/user/class-attest-role.php:26
+#: lib/user/class-attest-student-table.php:23
+msgid "Student"
+msgstr ""
+
+#: lib/user/class-attest-role.php:27 lib/user/class-attest-tutor-table.php:17
+msgid "Tutor"
+msgstr ""
+
+#: lib/user/class-attest-student-table.php:24
+#: src/class-attest-settings.php:70 src/class-attest-settings.php:71
+#: src/metabox/class-settings-metabox.php:90
+#: src/metabox/class-settings-metabox.php:104
+msgid "Students"
+msgstr ""
+
+#: lib/user/class-attest-student-table.php:56
+msgid "No Students Added yet."
+msgstr ""
+
+#: lib/user/class-attest-student-table.php:87
+msgid "Multiple"
+msgstr ""
+
+#: lib/user/class-attest-student-table.php:104
+#: src/class-attest-settings.php:727
+msgid "Are you sure you want to delete? The action is irreversible."
+msgstr ""
+
+#: lib/user/class-attest-student-table.php:158
+#: lib/user/class-attest-tutor-table.php:153
+msgid "Name"
+msgstr ""
+
+#: lib/user/class-attest-student-table.php:159
+#: lib/user/class-attest-tutor-table.php:154
+#: src/class-attest-settings.php:749
+#: src/shortcode/class-students-shortcode.php:39
+#: src/shortcode/class-students-shortcode.php:56
+msgid "Email"
+msgstr ""
+
+#: lib/user/class-attest-student-table.php:160
+msgid "Course Title"
+msgstr ""
+
+#: lib/user/class-attest-student-table.php:161
+msgid "Region"
+msgstr ""
+
+#: lib/user/class-attest-student-table.php:162
+msgid "City"
+msgstr ""
+
+#: lib/user/class-attest-student-table.php:163
+msgid "Date"
+msgstr ""
+
+#: lib/user/class-attest-tutor-table.php:18 src/class-attest-settings.php:60
+#: src/class-attest-settings.php:61
+msgid "Tutors"
+msgstr ""
+
+#: lib/user/class-attest-tutor-table.php:84
+msgid "No Tutors Added yet."
+msgstr ""
+
+#: lib/user/class-attest-tutor-table.php:114
+#: src/metabox/class-curriculum-metabox.php:153
+#: src/taxonomy/class-difficulty-taxonomy.php:31
+msgid "Edit"
+msgstr ""
+
+#: lib/user/class-attest-tutor-table.php:152
+msgid "Username"
+msgstr ""
+
+#: lib/user/class-attest-tutor-table.php:155
+msgid "Registered"
+msgstr ""
+
+#: lib/woocommerce/class-attest-account-woo.php:30
+msgid "My courses"
+msgstr ""
+
+#: lib/woocommerce/class-attest-account-woo.php:36
+msgid "My Courses"
+msgstr ""
+
+#: src/class-attest-install.php:45
+msgid "The Plugin can't be activated because your PHP version"
+msgstr ""
+
+#: src/class-attest-install.php:46
+msgid "is less than required "
+msgstr ""
+
+#: src/class-attest-settings.php:40 src/class-attest-settings.php:41
+msgid "Get Started"
+msgstr ""
+
+#: src/class-attest-settings.php:115 src/class-attest-settings.php:747
+#: src/class-attest-settings.php:892
+msgid "Templates"
+msgstr ""
+
+#: src/class-attest-settings.php:118
+msgid "Courses archive"
+msgstr ""
+
+#: src/class-attest-settings.php:120
+#: src/shortcode/class-students-shortcode.php:60
+#: src/shortcode/class-students-shortcode.php:106
+msgid "Register"
+msgstr ""
+
+#: src/class-attest-settings.php:122
+#: src/shortcode/class-students-shortcode.php:42
+#: src/shortcode/class-students-shortcode.php:165
+msgid "Login"
+msgstr ""
+
+#: src/class-attest-settings.php:124
+msgid "Congratulations"
+msgstr ""
+
+#: src/class-attest-settings.php:126
+msgid "My Account"
+msgstr ""
+
+#: src/class-attest-settings.php:128
+msgid "Number of courses per page"
+msgstr ""
+
+#: src/class-attest-settings.php:135 src/class-attest-settings.php:748
+msgid "reCaptcha"
+msgstr ""
+
+#: src/class-attest-settings.php:138
+msgid "Site key"
+msgstr ""
+
+#: src/class-attest-settings.php:140
+msgid "Secret key"
+msgstr ""
+
+#: src/class-attest-settings.php:147
+msgid "Announcement email"
+msgstr ""
+
+#: src/class-attest-settings.php:150 src/class-attest-settings.php:159
+#: src/class-attest-settings.php:170 src/class-attest-settings.php:179
+#: src/class-attest-settings.php:188
+msgid "Enable/Disable"
+msgstr ""
+
+#: src/class-attest-settings.php:152 src/class-attest-settings.php:163
+#: src/class-attest-settings.php:172 src/class-attest-settings.php:181
+#: src/class-attest-settings.php:192
+msgid "Subject"
+msgstr ""
+
+#: src/class-attest-settings.php:154 src/class-attest-settings.php:165
+#: src/class-attest-settings.php:174 src/class-attest-settings.php:183
+#: src/class-attest-settings.php:194
+msgid "Body"
+msgstr ""
+
+#: src/class-attest-settings.php:156
+msgid "New course email"
+msgstr ""
+
+#: src/class-attest-settings.php:161
+msgid "Target audience of"
+msgstr ""
+
+#: src/class-attest-settings.php:167
+msgid "Completed course email"
+msgstr ""
+
+#: src/class-attest-settings.php:176
+msgid "Updated course email"
+msgstr ""
+
+#: src/class-attest-settings.php:185
+msgid "Continue course email"
+msgstr ""
+
+#: src/class-attest-settings.php:190
+msgid "Wait time"
+msgstr ""
+
+#: src/class-attest-settings.php:200
+msgid "Manage data"
+msgstr ""
+
+#: src/class-attest-settings.php:203 src/class-attest-settings.php:660
+msgid "Import"
+msgstr ""
+
+#: src/class-attest-settings.php:205 src/class-attest-settings.php:669
+msgid "Export"
+msgstr ""
+
+#: src/class-attest-settings.php:270
+msgid "Announcements per page"
+msgstr ""
+
+#: src/class-attest-settings.php:285
+msgid "Tutors per page"
+msgstr ""
+
+#: src/class-attest-settings.php:298
+msgid "Students per page"
+msgstr ""
+
+#: src/class-attest-settings.php:311
+msgid ""
+"In order for the system to work, you need to assign templates to the pages "
+"you already created."
+msgstr ""
+
+#: src/class-attest-settings.php:409
+msgid "Use reCaptcha v2: I'm not a robot details"
+msgstr ""
+
+#: src/class-attest-settings.php:409
+msgid "here"
+msgstr ""
+
+#: src/class-attest-settings.php:437
+msgid "Announcement email description. Available tags"
+msgstr ""
+
+#: src/class-attest-settings.php:448 src/class-attest-settings.php:501
+#: src/class-attest-settings.php:539 src/class-attest-settings.php:625
+msgid "Check this to Enable"
+msgstr ""
+
+#: src/class-attest-settings.php:475
+msgid "New course email description. Available tags"
+msgstr ""
+
+#: src/class-attest-settings.php:485
+#: src/metabox/class-settings-metabox.php:493
+#: src/metabox/class-video-metabox.php:153
+msgid "None"
+msgstr ""
+
+#: src/class-attest-settings.php:486
+msgid "All courses"
+msgstr ""
+
+#: src/class-attest-settings.php:528
+msgid "Completed course email description. Allowed tags"
+msgstr ""
+
+#: src/class-attest-settings.php:566
+msgid "Updated course email description. Available tags"
+msgstr ""
+
+#: src/class-attest-settings.php:577
+msgid "Check to allow sending emails upon course update."
+msgstr ""
+
+#: src/class-attest-settings.php:604
+msgid "Continue course email description. Available tags"
+msgstr ""
+
+#: src/class-attest-settings.php:614
+msgid "days of no activity"
+msgstr ""
+
+#: src/class-attest-settings.php:651
+msgid "Import Export data"
+msgstr ""
+
+#: src/class-attest-settings.php:662
+#, php-format
+msgid "Select %s file to upload"
+msgstr ""
+
+#: src/class-attest-settings.php:750
+msgid "Backup"
+msgstr ""
+
+#: src/class-attest-settings.php:787
+msgid "New Course"
+msgstr ""
+
+#: src/class-attest-settings.php:788
+msgid "Updated Course"
+msgstr ""
+
+#: src/class-attest-settings.php:789
+msgid "Continue Course"
+msgstr ""
+
+#: src/class-attest-settings.php:790
+msgid "Completed Course"
+msgstr ""
+
+#: src/class-attest-settings.php:863
+msgid "Create your first Online Course with WP Attest"
+msgstr ""
+
+#: src/class-attest-settings.php:864
+msgid "Build your Curriculum with an intuitive editor."
+msgstr ""
+
+#: src/class-attest-settings.php:875
+#, php-format
+msgid ""
+"Enjoying WP Attest? Drop us a %2s (5 star) rating. Your support will move "
+"us forward to make it better!"
+msgstr ""
+
+#: src/class-attest-settings.php:881
+msgid "Get paid through WooCommerce"
+msgstr ""
+
+#: src/class-attest-settings.php:882
+msgid ""
+"Harness the power of WooCommerce by selling your online courses, offer "
+"flexible secure payments, manage orders, and automate the entire financial "
+"cycle."
+msgstr ""
+
+#: src/class-attest-settings.php:883
+msgid ""
+" With WooCommerce you can integrate any of the major payment gateways that "
+"fit your interests. Be it PayPal, Stripe, 2Checkout, AmazonPay, Paysafe, "
+"PayU or others, you can either use multiple or choose only one."
+msgstr ""
+
+#: src/class-attest-settings.php:885
+msgid "Quick Links"
+msgstr ""
+
+#: src/class-attest-settings.php:889
+msgid "Create a new Course"
+msgstr ""
+
+#: src/class-attest-settings.php:890
+msgid "Create a new Lesson"
+msgstr ""
+
+#: src/class-attest-settings.php:891
+msgid "Theme Builder"
+msgstr ""
+
+#: src/class-attest-settings.php:893
+msgid "Customize emails"
+msgstr ""
+
+#: src/class-attest-settings.php:898 src/class-attest-settings.php:988
+msgid "Documentation"
+msgstr ""
+
+#: src/class-attest-settings.php:899
+msgid "Support"
+msgstr ""
+
+#: src/class-attest-settings.php:900
+msgid "Report a bug"
+msgstr ""
+
+#: src/class-attest-settings.php:911
+msgid "Design everything with Elementor"
+msgstr ""
+
+#: src/class-attest-settings.php:912
+msgid ""
+"Customize the look and feel of every component in the frontend with our "
+"Elementor widgets."
+msgstr ""
+
+#: src/class-attest-settings.php:913
+msgid "Get it for 60€"
+msgstr ""
+
+#: src/class-attest-settings.php:914
+msgid "<strong>NOTE!</strong> You need Elementor PRO."
+msgstr ""
+
+#: src/class-attest-settings.php:925
+msgid "More…"
+msgstr ""
+
+#: src/class-attest-settings.php:926
+msgid ""
+"Learn more about the Features of WP Attest and see how it can help you "
+"make the most of it."
+msgstr ""
+
+#: src/class-attest-settings.php:927
+msgid ""
+"Our solution is good for Academics, Distance Learning, Employee Training, "
+"and help students to develop new Skills."
+msgstr ""
+
+#: src/class-attest-settings.php:928
+msgid "Inspire a generation!."
+msgstr ""
+
+#: src/class-attest-settings.php:936
+msgid "Version 1.7"
+msgstr ""
+
+#: src/class-attest-settings.php:937
+msgid "September 18, 2020"
+msgstr ""
+
+#: src/class-attest-settings.php:938
+msgid ""
+"For more information, see <a href=\"https://www.wpattest.com/features\" "
+"target=\"_blank\">the release notes</a>"
+msgstr ""
+
+#: src/class-attest-settings.php:985
+msgid "Elementor"
+msgstr ""
+
+#: src/cpt/class-course-cpt.php:26
+msgctxt "Post Type General Name"
+msgid "Courses"
+msgstr ""
+
+#: src/cpt/class-course-cpt.php:27
+msgctxt "Post Type Singular Name"
+msgid "Course"
+msgstr ""
+
+#: src/cpt/class-course-cpt.php:28 src/cpt/class-lesson-cpt.php:27
+msgid "Attest"
+msgstr ""
+
+#: src/cpt/class-course-cpt.php:29
+msgid "Parent Course"
+msgstr ""
+
+#: src/cpt/class-course-cpt.php:30
+msgid "Courses"
+msgstr ""
+
+#: src/cpt/class-course-cpt.php:31
+msgid "View Course"
+msgstr ""
+
+#: src/cpt/class-course-cpt.php:32
+msgid "Add New Course"
+msgstr ""
+
+#: src/cpt/class-course-cpt.php:34
+msgid "Edit Course"
+msgstr ""
+
+#: src/cpt/class-course-cpt.php:35
+msgid "Update Course"
+msgstr ""
+
+#: src/cpt/class-course-cpt.php:36
+msgid "Search Course"
+msgstr ""
+
+#: src/cpt/class-course-cpt.php:37 src/cpt/class-lesson-cpt.php:36
+msgid "Not Found"
+msgstr ""
+
+#: src/cpt/class-course-cpt.php:38 src/cpt/class-lesson-cpt.php:37
+msgid "Not found in Trash"
+msgstr ""
+
+#: src/cpt/class-course-cpt.php:48
+msgid "courses"
+msgstr ""
+
+#: src/cpt/class-course-cpt.php:49
+msgid "Courses for Attest"
+msgstr ""
+
+#: src/cpt/class-lesson-cpt.php:25
+msgctxt "Post Type General Name"
+msgid "Lessons"
+msgstr ""
+
+#: src/cpt/class-lesson-cpt.php:26
+msgctxt "Post Type Singular Name"
+msgid "Lesson"
+msgstr ""
+
+#: src/cpt/class-lesson-cpt.php:28
+msgid "Parent Lesson"
+msgstr ""
+
+#: src/cpt/class-lesson-cpt.php:30
+msgid "View Lesson"
+msgstr ""
+
+#: src/cpt/class-lesson-cpt.php:31
+msgid "Add New Lesson"
+msgstr ""
+
+#: src/cpt/class-lesson-cpt.php:33
+msgid "Edit Lesson"
+msgstr ""
+
+#: src/cpt/class-lesson-cpt.php:34
+msgid "Update Lesson"
+msgstr ""
+
+#: src/cpt/class-lesson-cpt.php:35
+msgid "Search Lesson"
+msgstr ""
+
+#: src/cpt/class-lesson-cpt.php:48
+msgid "Lessons for Attest"
+msgstr ""
+
+#: src/metabox/class-curriculum-metabox.php:41
+msgid ""
+"Group all your Lessons into Modules. Create new Lessons or select from the "
+"already existing ones. Sort the Lessons within the Module or the Modules "
+"between them, with a simple drag and drop. Edit or delete the Lessons(the "
+"Lesson would not be deleted permanently). Activate any Lesson as Teaser "
+"and make it free for students to check it out, without enrolling in the "
+"course."
+msgstr ""
+
+#: src/metabox/class-curriculum-metabox.php:51
+#: src/metabox/class-curriculum-metabox.php:206
+msgid "Module"
+msgstr ""
+
+#: src/metabox/class-curriculum-metabox.php:80
+msgid "New Module"
+msgstr ""
+
+#: src/metabox/class-curriculum-metabox.php:82
+#: src/metabox/class-curriculum-metabox.php:192
+msgid "Write the title"
+msgstr ""
+
+#: src/metabox/class-curriculum-metabox.php:83
+msgid "Create New"
+msgstr ""
+
+#: src/metabox/class-curriculum-metabox.php:144
+#: src/metabox/class-curriculum-metabox.php:177
+msgid "Select from existing"
+msgstr ""
+
+#: src/metabox/class-curriculum-metabox.php:155
+msgid "View"
+msgstr ""
+
+#: src/metabox/class-curriculum-metabox.php:164
+msgid "Activate as Teaser"
+msgstr ""
+
+#: src/metabox/class-curriculum-metabox.php:176
+msgid "Create new"
+msgstr ""
+
+#: src/metabox/class-curriculum-metabox.php:187
+msgid "New Lesson"
+msgstr ""
+
+#: src/metabox/class-curriculum-metabox.php:196
+msgid "Create"
+msgstr ""
+
+#: src/metabox/class-details-metabox.php:22
+msgid "Details"
+msgstr ""
+
+#: src/metabox/class-details-metabox.php:44
+#: src/metabox/class-details-metabox.php:51
+msgid "Key features"
+msgstr ""
+
+#: src/metabox/class-details-metabox.php:46
+#: src/metabox/class-details-metabox.php:61
+msgid "Audience"
+msgstr ""
+
+#: src/metabox/class-details-metabox.php:47
+msgid "FAQ"
+msgstr ""
+
+#: src/metabox/class-details-metabox.php:52
+#, php-format
+msgid ""
+"List down all the features, mentioning all the important elements that the "
+"student will learn going through the course. Write one per row and style "
+"it using HTML tags like %s."
+msgstr ""
+
+#: src/metabox/class-details-metabox.php:57
+#, php-format
+msgid ""
+"List down all the prerequisites that the student has to achieve before "
+"enrolling in the course. Write one per row and style it using HTML tags "
+"like %s."
+msgstr ""
+
+#: src/metabox/class-details-metabox.php:62
+#, php-format
+msgid ""
+"List down all the types of people that might be interested in taking this "
+"course. Ask yourself who is this course good for. Write one per row and "
+"style it using HTML tags like %s."
+msgstr ""
+
+#: src/metabox/class-details-metabox.php:67
+msgid ""
+"Reduce support requests with questions that have thorough explanations."
+msgstr ""
+
+#: src/metabox/class-details-metabox.php:108
+msgid "Type Something"
+msgstr ""
+
+#: src/metabox/class-details-metabox.php:131
+msgid "Add question"
+msgstr ""
+
+#: src/metabox/class-details-metabox.php:143
+#: src/metabox/class-details-metabox.php:154
+#: src/metabox/class-details-metabox.php:177
+#: src/metabox/class-details-metabox.php:186
+msgid "Question"
+msgstr ""
+
+#: src/metabox/class-details-metabox.php:160
+#: src/metabox/class-details-metabox.php:192
+msgid "Answer"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:68
+#: src/metabox/class-settings-metabox.php:77
+#: src/metabox/class-settings-metabox.php:93
+#: src/metabox/class-settings-metabox.php:119
+msgid "Assessment"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:73
+msgid ""
+"Define manually the time that it takes for this Lesson to be finished. "
+"Usually, if it is a video, you can enter the length of the video in hours, "
+"minutes, and/or seconds."
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:78
+msgid ""
+"You can define the number of Points a student will be rewarded with after "
+"finishing the Lesson. (e.g. 10 points each Lesson) or you can consider it "
+"finished on a View basis. On the Course editor, you can use these criteria "
+"to automatically define when the course was completed."
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:86
+msgid "PRO"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:89
+#: src/metabox/class-settings-metabox.php:99
+#: src/metabox/class-settings-metabox.php:231
+msgid "Price"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:94
+#: src/metabox/class-settings-metabox.php:124
+msgid "Featured"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:100
+msgid "Set out a pricing model for your course."
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:105
+msgid "Use this feature to Disable the course when you are working on it."
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:110
+msgid ""
+"Mention what is the language that will be used throughout the course. This "
+"will be shown on the frontend just as a label."
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:115
+msgid ""
+"Check this feature if you want to show how much time it will take for a "
+"student to go through the entire course."
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:120
+msgid ""
+"Define the rules when the system will automatically allow the user to "
+"complete the course. Add conditions based on \"Total points earned"
+"\" (which will be defined on Lessons individually), and the number of "
+"Lessons that were \"Opened\". Use AND / OR rules for advanced setup."
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:125
+msgid ""
+"Highlight this course with special predefined styling. Activating this "
+"feature will list your course with a border that will make it stand out. "
+"It can be seen on the listing page."
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:130
+msgid ""
+"When updating the course, you can craft an announcement or hide the "
+"current one from the course page. Once released, it will notify all "
+"students by email. Go to Settings > Email to define the message. You "
+"cannot edit the message once released."
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:152
+msgid "Hours"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:153
+msgid "Minutes"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:154
+msgid "Seconds"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:180
+msgid "Reward"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:196
+msgid "Define a number"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:219
+msgid "Free(Requires Registration)"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:225
+msgid "One-time payment"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:232
+msgid "Sale price"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:282
+msgid "IF"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:283
+msgid "Condition"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:284
+msgid "IS"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:307
+#: src/metabox/class-settings-metabox.php:361
+msgid "Min. points"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:315
+#: src/metabox/class-settings-metabox.php:369
+msgid "Min. lessons opened"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:320
+#: src/metabox/class-settings-metabox.php:374
+msgid "Out of"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:330
+msgid "Add another condition"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:337
+msgid "AND"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:338
+msgid "OR"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:398
+msgid "Show total course duration"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:412
+msgid "Feature this course"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:426
+msgid ""
+"Sorry for the inconvenience but the max. capacity for this course was "
+"reached. Try a different course or send us a message. Thank you!"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:429
+msgid "How many students can enroll in this course?"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:435
+msgid "No limit"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:442
+#: src/metabox/class-settings-metabox.php:472
+msgid "Define"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:450
+#: src/metabox/class-settings-metabox.php:480
+msgid "No of Students"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:454
+msgid "Display error message"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:459
+msgid "Show how many students already enrolled"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:465
+msgid "Calculate automatically"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:502
+msgid "Add New Announcement"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:709
+#: src/metabox/class-settings-metabox.php:719
+msgid "N/A"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:710
+msgid "Points"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:711
+msgid "IF Opened"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:728
+msgid "Total points earned"
+msgstr ""
+
+#: src/metabox/class-settings-metabox.php:729
+msgid "Opened"
+msgstr ""
+
+#: src/metabox/class-video-metabox.php:53
+msgid "Featured video"
+msgstr ""
+
+#: src/metabox/class-video-metabox.php:75
+msgid "Replace the featured image with a video."
+msgstr ""
+
+#: src/metabox/class-video-metabox.php:78
+msgid "Source"
+msgstr ""
+
+#: src/metabox/class-video-metabox.php:79
+msgid "Value (URL Path or Code)"
+msgstr ""
+
+#: src/metabox/class-video-metabox.php:88
+#: src/metabox/class-video-metabox.php:154
+msgid "Upload"
+msgstr ""
+
+#: src/metabox/class-video-metabox.php:155
+msgid "External URL"
+msgstr ""
+
+#: src/metabox/class-video-metabox.php:156
+msgid "YouTube"
+msgstr ""
+
+#: src/metabox/class-video-metabox.php:157
+msgid "Vimeo"
+msgstr ""
+
+#: src/metabox/class-video-metabox.php:158
+msgid "Embedded"
+msgstr ""
+
+#: src/shortcode/class-congrats-shortcode.php:27
+msgid "Congratulations for finishing"
+msgstr ""
+
+#: src/shortcode/class-congrats-shortcode.php:50
+msgid "GO TO MY COURSES"
+msgstr ""
+
+#: src/shortcode/class-students-shortcode.php:40
+#: src/shortcode/class-students-shortcode.php:57
+msgid "Password"
+msgstr ""
+
+#: src/shortcode/class-students-shortcode.php:41
+msgid "Remember Me"
+msgstr ""
+
+#: src/shortcode/class-students-shortcode.php:43
+msgid "Invalid credentials"
+msgstr ""
+
+#: src/shortcode/class-students-shortcode.php:54
+msgid "First Name"
+msgstr ""
+
+#: src/shortcode/class-students-shortcode.php:55
+msgid "Last Name"
+msgstr ""
+
+#: src/shortcode/class-students-shortcode.php:58
+msgid "Confirm Password"
+msgstr ""
+
+#: src/shortcode/class-students-shortcode.php:59
+msgid "Passwords doesn't match. Please try again."
+msgstr ""
+
+#: src/shortcode/class-students-shortcode.php:61
+#, php-format
+msgid "There is already an account using that email. Try another email or %s"
+msgstr ""
+
+#: src/shortcode/class-students-shortcode.php:61
+msgid "Recover your account"
+msgstr ""
+
+#: src/shortcode/class-students-shortcode.php:104
+msgid "Forget Password?"
+msgstr ""
+
+#: src/shortcode/class-students-shortcode.php:106
+msgid "Don't have an account"
+msgstr ""
+
+#: src/shortcode/class-students-shortcode.php:165
+msgid "Already have an Account"
+msgstr ""
+
+#: src/taxonomy/class-difficulty-taxonomy.php:25
+msgctxt "Taxonomy general name"
+msgid "Difficulty"
+msgstr ""
+
+#: src/taxonomy/class-difficulty-taxonomy.php:26
+#: src/taxonomy/class-topic-taxonomy.php:26
+msgctxt "Taxonomy singular name"
+msgid "Topic"
+msgstr ""
+
+#: src/taxonomy/class-difficulty-taxonomy.php:27
+msgid "Search Difficulty"
+msgstr ""
+
+#: src/taxonomy/class-difficulty-taxonomy.php:28
+msgid "Popular Difficulty"
+msgstr ""
+
+#: src/taxonomy/class-difficulty-taxonomy.php:29
+msgid "All Difficulty"
+msgstr ""
+
+#: src/taxonomy/class-difficulty-taxonomy.php:30
+msgid "Parent Difficulty Category"
+msgstr ""
+
+#: src/taxonomy/class-difficulty-taxonomy.php:32
+msgid "Update"
+msgstr ""
+
+#: src/taxonomy/class-difficulty-taxonomy.php:34
+msgid "New Difficulty Name"
+msgstr ""
+
+#: src/taxonomy/class-difficulty-taxonomy.php:35
+msgid "Separate difficulties with commas"
+msgstr ""
+
+#: src/taxonomy/class-difficulty-taxonomy.php:36
+msgid "Add or remove difficulties"
+msgstr ""
+
+#: src/taxonomy/class-difficulty-taxonomy.php:37
+msgid "Choose from the most used difficulties"
+msgstr ""
+
+#: src/taxonomy/class-insert-difficulty.php:16
+msgid "Beginner"
+msgstr ""
+
+#: src/taxonomy/class-insert-difficulty.php:17
+msgid "Intermediate"
+msgstr ""
+
+#: src/taxonomy/class-insert-difficulty.php:18
+msgid "Advanced"
+msgstr ""
+
+#: src/taxonomy/class-topic-taxonomy.php:25
+msgctxt "Taxonomy general name"
+msgid "Topics"
+msgstr ""
+
+#: src/taxonomy/class-topic-taxonomy.php:27
+msgid "Search Topics"
+msgstr ""
+
+#: src/taxonomy/class-topic-taxonomy.php:28
+msgid "Popular Topics"
+msgstr ""
+
+#: src/taxonomy/class-topic-taxonomy.php:29
+msgid "All Topics"
+msgstr ""
+
+#: src/taxonomy/class-topic-taxonomy.php:30
+msgid "Parent Topic Category"
+msgstr ""
+
+#: src/taxonomy/class-topic-taxonomy.php:31
+msgid "Edit Topic"
+msgstr ""
+
+#: src/taxonomy/class-topic-taxonomy.php:32
+msgid "Update Topic"
+msgstr ""
+
+#: src/taxonomy/class-topic-taxonomy.php:33
+msgid "Add New Topic"
+msgstr ""
+
+#: src/taxonomy/class-topic-taxonomy.php:34
+msgid "New Topic Name"
+msgstr ""
+
+#: src/taxonomy/class-topic-taxonomy.php:35
+msgid "Separate topics with commas"
+msgstr ""
+
+#: src/taxonomy/class-topic-taxonomy.php:36
+msgid "Add or remove topics"
+msgstr ""
+
+#: src/taxonomy/class-topic-taxonomy.php:37
+msgid "Choose from the most used topics"
+msgstr ""
+
+#: src/taxonomy/class-topic-taxonomy.php:38
+msgid "Topics"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+msgid "WP Attest"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.wpattest.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Attest is a <strong>WordPress LMS Plugin</strong>, good for Tutors, that "
+"helps create free <strong>Online Courses</strong>, <strong>Classes</"
+"strong> and <strong>Lessons</strong> with a Gutenberg-ready interface."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/attest/"
+msgstr ""

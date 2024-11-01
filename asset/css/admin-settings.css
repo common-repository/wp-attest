@@ -1,0 +1,92 @@
+/*FAQ tab in details metabox*/
+#attest_faq_append_to {min-height: 50px; height: auto;}
+/* overflow-y: scroll;
+/**Padding left and right**/
+#attest_settings .inside, #attest_details .inside {
+  padding-left: 0px; padding-right: 0px;
+}
+
+/**Settings tab CSS**/
+.tab-container {
+  padding-top: 30px;
+}
+.etabs {
+  list-style: none; margin: 0; padding: 0; background: #fff;
+  float: left; border-right: 1px solid #eee;
+}
+.lesson-tabs {
+  min-height: 225px;
+  height: auto;
+}
+.course-tabs {
+  min-height: 275px;
+  height: auto;
+}
+.details-tabs {
+  min-height: 265px;
+  height: auto;
+}
+.etabs li {
+  width: 150px; margin: 0; text-align: left; zoom:1;
+  background: #fff; border: none; border-bottom: none; padding: 0px 20px 0px 0px;
+  -moz-border-radius: 4px 4px 0 0; -webkit-border-radius: 4px 4px 0 0;
+}
+.etabs li a {
+  position: relative; width: 100%; display: block; line-height: 3em; outline: none;
+  text-decoration: none; color: #333; font-weight: bold; padding: 0px 10px 0px 10px;
+}
+.etabs li a:hover {
+  text-decoration: none;
+}
+.etabs li a:focus {
+  outline: none;
+}
+.etabs li a::-moz-focus-inner {
+ border: 0 !important;
+}
+.etabs li.active {
+  background: #eee; position: relative; text-decoration: none; outline: none;
+  -moz-border-radius: 0; -webkit-border-radius: 0;
+}
+.etabs li a.active {
+  font-weight: bold;
+}
+.tab-container .panel-container {
+  min-height: 275px; height: auto; background: #fff; padding: 10px 20px 0px 200px;
+  -moz-border-radius: 0 4px 4px 4px; -webkit-border-radius: 0 4px 4px 4px;
+}
+.tab-container .details-panel-container {
+  min-height: 265px; height: auto; background: #fff; padding: 10px 20px 0px 200px;
+  -moz-border-radius: 0 4px 4px 4px; -webkit-border-radius: 0 4px 4px 4px;
+}
+.tab-container .lesson-panel-container {
+  min-height: 250px; height: auto; background: #fff; padding: 10px 20px 0px 200px;
+  -moz-border-radius: 0 4px 4px 4px; -webkit-border-radius: 0 4px 4px 4px;
+}
+.panel-container h2 {
+  padding: 0px !important;
+}
+.attest-pro {
+  color: #ff5722;
+}
+.pro-text a {
+  font-weight: normal !important;
+}
+.etab-content-text {
+  margin-top: 20px; margin-bottom: 30px;
+}
+
+.attest-woo-woo {
+  margin: 40px 0px;
+}
+.attest-woo-pro-banner {
+  height: 50px !important;
+}
+
+/**Assessment CSS**/
+.assessment-left-pad{padding-left: 10px;}
+.course_assessment_table_pad_top {padding-top: 10px;}
+.medium-text{width: 180px;}
+.delete-size {font-size: 18px;}
+#course_assessment_delete {cursor: pointer;}
+.course_assessment_number {padding-top: 10px;}
